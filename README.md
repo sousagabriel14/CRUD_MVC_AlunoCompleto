@@ -9,4 +9,4 @@ Sistema de cadastrar/alterar/deletar/listar alunos.
 
 -ConnectionFactory: Classe onde é feita toda a conexão com o banco de dados.
 
--TelaApresentação: Classe que faz as ações da tela que o usuário visualiz.
+-TelaApresentação: Classe que faz as ações da tela que o usuário visualiza.
